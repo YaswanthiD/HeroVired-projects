@@ -1,0 +1,30 @@
+
+
+.div1{
+    position:  sticky;
+    top: 0;
+    
+  }
+  .display-box{
+    background-color: #34ebc9;
+    border-radius : 5px;
+    width: 400px;
+    height: 50px;
+  }
+  .butt{
+    background-color: greenyellow;
+    border-radius : 5px;
+    height: 100px;
+    width: 100px;
+  }
+  .one{
+    background-color: #f0e1ef;
+    padding:10px;
+    border: 2px;
+    border-style: dashed;
+    border-color: black;
+    height:630px;
+    width:500px;
+    text-align: center;
+    margin-left: 350px;
+  }
